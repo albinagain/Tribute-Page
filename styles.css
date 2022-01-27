@@ -1,0 +1,13 @@
+body{
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-family:  arial;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
